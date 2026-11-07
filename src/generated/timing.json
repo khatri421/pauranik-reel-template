@@ -1,0 +1,369 @@
+{
+ "duration": 15.11,
+ "title": "JAMBAVAN KI ICHCHHA · BHAAG 1",
+ "blocks": 10,
+ "mode": "line-per-block",
+ "shots": [
+  {
+   "at": 0,
+   "text": "Lanka ki yuddh-bhoomi shaant ho chuki thi."
+  },
+  {
+   "at": 1.53,
+   "text": "Par Jambavan ke mann mein ek ichchha baaki thi."
+  },
+  {
+   "at": 3.08,
+   "text": "Woh dheere-dheere Shri Ram ke paas pahunche."
+  },
+  {
+   "at": 4.73,
+   "text": "Haath jodkar bole, \"Prabhu,"
+  },
+  {
+   "at": 6.13,
+   "text": "ek baar aapse dwandva yuddh karna hai.\""
+  },
+  {
+   "at": 7.73,
+   "text": "Shri Ram ne muskurakar haath uthaya."
+  },
+  {
+   "at": 9.13,
+   "text": "\"Abhi nahi, Jambavan."
+  },
+  {
+   "at": 10.78,
+   "text": "Agle avatar mein ye ichchha poori karunga.\""
+  },
+  {
+   "at": 12.28,
+   "text": "Jambavan ne intezaar shuru kiya..."
+  },
+  {
+   "at": 13.58,
+   "text": "aur phir Dwarka mein Krishna aaye."
+  }
+ ],
+ "subtitle": [
+  {
+   "end": 0.89,
+   "w": [
+    [
+     "Lanka",
+     0
+    ],
+    [
+     "ki",
+     0.19
+    ],
+    [
+     "yuddh-bhoomi",
+     0.3
+    ],
+    [
+     "shaant",
+     0.66
+    ]
+   ]
+  },
+  {
+   "end": 1.49,
+   "w": [
+    [
+     "ho",
+     0.89
+    ],
+    [
+     "chuki",
+     1
+    ],
+    [
+     "thi.",
+     1.19
+    ]
+   ]
+  },
+  {
+   "end": 2.28,
+   "w": [
+    [
+     "Par",
+     1.53
+    ],
+    [
+     "Jambavan",
+     1.65
+    ],
+    [
+     "ke",
+     1.89
+    ],
+    [
+     "mann",
+     1.99
+    ],
+    [
+     "mein",
+     2.13
+    ]
+   ]
+  },
+  {
+   "end": 3.06,
+   "w": [
+    [
+     "ek",
+     2.28
+    ],
+    [
+     "ichchha",
+     2.37
+    ],
+    [
+     "baaki",
+     2.59
+    ],
+    [
+     "thi.",
+     2.76
+    ]
+   ]
+  },
+  {
+   "end": 3.95,
+   "w": [
+    [
+     "Woh",
+     3.08
+    ],
+    [
+     "dheere-dheere",
+     3.22
+    ],
+    [
+     "Shri",
+     3.63
+    ],
+    [
+     "Ram",
+     3.8
+    ]
+   ]
+  },
+  {
+   "end": 4.54,
+   "w": [
+    [
+     "ke",
+     3.95
+    ],
+    [
+     "paas",
+     4.06
+    ],
+    [
+     "pahunche.",
+     4.24
+    ]
+   ]
+  },
+  {
+   "end": 5.93,
+   "w": [
+    [
+     "Haath",
+     4.73
+    ],
+    [
+     "jodkar",
+     5.02
+    ],
+    [
+     "bole,",
+     5.35
+    ],
+    [
+     "\"Prabhu,",
+     5.6
+    ]
+   ]
+  },
+  {
+   "end": 6.94,
+   "w": [
+    [
+     "ek",
+     6.13
+    ],
+    [
+     "baar",
+     6.25
+    ],
+    [
+     "aapse",
+     6.44
+    ],
+    [
+     "dwandva",
+     6.66
+    ]
+   ]
+  },
+  {
+   "end": 7.67,
+   "w": [
+    [
+     "yuddh",
+     6.94
+    ],
+    [
+     "karna",
+     7.15
+    ],
+    [
+     "hai.\"",
+     7.37
+    ]
+   ]
+  },
+  {
+   "end": 9,
+   "w": [
+    [
+     "Shri",
+     7.73
+    ],
+    [
+     "Ram",
+     7.9
+    ],
+    [
+     "ne",
+     8.04
+    ],
+    [
+     "muskurakar",
+     8.16
+    ],
+    [
+     "haath",
+     8.5
+    ],
+    [
+     "uthaya.",
+     8.7
+    ]
+   ]
+  },
+  {
+   "end": 10.58,
+   "w": [
+    [
+     "\"Abhi",
+     9.13
+    ],
+    [
+     "nahi,",
+     9.52
+    ],
+    [
+     "Jambavan.",
+     9.92
+    ]
+   ]
+  },
+  {
+   "end": 11.41,
+   "w": [
+    [
+     "Agle",
+     10.78
+    ],
+    [
+     "avatar",
+     10.94
+    ],
+    [
+     "mein",
+     11.15
+    ],
+    [
+     "ye",
+     11.31
+    ]
+   ]
+  },
+  {
+   "end": 12.14,
+   "w": [
+    [
+     "ichchha",
+     11.41
+    ],
+    [
+     "poori",
+     11.65
+    ],
+    [
+     "karunga.\"",
+     11.84
+    ]
+   ]
+  },
+  {
+   "end": 13.5,
+   "w": [
+    [
+     "Jambavan",
+     12.28
+    ],
+    [
+     "ne",
+     12.58
+    ],
+    [
+     "intezaar",
+     12.69
+    ],
+    [
+     "shuru",
+     12.99
+    ],
+    [
+     "kiya...",
+     13.2
+    ]
+   ]
+  },
+  {
+   "end": 14.71,
+   "w": [
+    [
+     "aur",
+     13.58
+    ],
+    [
+     "phir",
+     13.72
+    ],
+    [
+     "Dwarka",
+     13.89
+    ],
+    [
+     "mein",
+     14.11
+    ],
+    [
+     "Krishna",
+     14.28
+    ],
+    [
+     "aaye.",
+     14.54
+    ]
+   ]
+  }
+ ]
+}

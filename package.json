@@ -1,0 +1,23 @@
+{
+	"private": true,
+	"name": "reel-mobile-template",
+	"version": "1.0.0",
+	"type": "module",
+	"scripts": {
+		"preview": "node scripts/reel.mjs preview",
+		"reel": "node scripts/reel.mjs reel",
+		"library": "node scripts/reel.mjs library",
+		"studio": "remotion studio",
+		"placeholder-voice": "node scripts/make-placeholder-voice.mjs"
+	},
+	"dependencies": {
+		"@remotion/cli": "4.0.539",
+		"@remotion/google-fonts": "4.0.539",
+		"@remotion/media": "4.0.539",
+		"@types/react": "^19.3.0",
+		"react": "^19.3.1",
+		"react-dom": "^19.3.1",
+		"remotion": "4.0.539",
+		"typescript": "^5.9.3"
+	}
+}

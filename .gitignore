@@ -1,0 +1,5 @@
+node_modules/
+public/voice.wav
+.remotion/
+*.log
+# reels/<naam>/*.mp4 are committed on purpose so they can be downloaded from GitHub on a phone.
